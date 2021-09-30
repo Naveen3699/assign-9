@@ -1,0 +1,59 @@
+
+
+<h1><center>Resume<center></h1>
+<h2>Name:</h2>
+<h2>Email id :</h2>
+<h2>Mobile No:</h2>
+<hr>
+<h2>Academic Qualification</h2>
+<table>
+  <tr>
+   <th><h2>Sr.No.  </h2></th>
+   <th><h2> Institute  </h2></th>
+<th><h2>  Board/University  </h2></th>
+<th><h2>  Percentage  </h2></th>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</table>
+<h2>Projects</h2>
+<ul style="list-style-type:circle;">
+<li>Project Name:<b>Online Exam</b></li>
+<li>Technology Used:<b>Python</b></li>
+<li>Datebase:<b>MySQl</b></li>
+<li><h2>Project Description</h2>ffjndnk djfs fmf jmfn bfuswdw djfn fnfn fnswidn vdadn fnai jaknafnf dadnnkdnd fwihnfuhdjsndn wkddjsjd</li>
+</ul>
+<h2>Projects</h2>
+<ul style="list-style-type:circle;">
+<li>Project Name:<b>Online Exam</b></li>
+<li>Technology Used:<b>Python</b></li>
+<li>Datebase:<b>MySQl</b></li>
+<li><h2>Project Description</h2>ffjndnk djfs fmf jmfn bfuswdw djfn fnfn fnswidn vdadn fnai jaknafnf dadnnkdnd fwihnfuhdjsndn wkddjsjd</li>
+</ul>
+<blockquote><iframe src="https://www.wikipedia.com" title="wikipedia"></iframe>iframe</iframe>
+<p><a href="https://www.wikipedia.com" target="iframe_a">wikipedia.com</a></p></blockquote>
+<h2>Technical Skills</h2>
+<ul style="list-style-type:circle;">
+<li>Operating System:</li>
+<li>Languages Known</li>
+<li>Web Technology</li>
+<li>Database</li>
+
+
+
