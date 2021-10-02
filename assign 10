@@ -1,0 +1,31 @@
+
+<html>
+<head>
+<title>ASSign</title>
+</head>
+<body>
+<h2 style ="color:blue;">The kbd Element</h2>
+<p>kbd element is used to define keyboard in Port save the document by pressing<kbd> ctrl + s</kbd></p><br>
+<h2 style ="color:blue;">The samp Element</h2>
+The stamp element is used to define sample output from a computer program.<br><br>
+Message from my computer:<br><br><samp>File not found.<br><br>Press F1 to continue</samp>
+<h2 style ="color:blue;">The code Element</h2>
+Programming code Example<br><br>
+<code>x = 5; y = 6; z = x + y;</code>
+<h2 style="color:blue;">The var Elemet</h2>
+<p>The area of a triangle is:<var>1/2 x b x h</var>, where <var>b</var> is the base,and <var>h</var> is the vertical height.</p>
+<blockquote><b>India</b><br><br> <address>India, officially the Republic of India (Hindi: Bhārat Gaṇarājya),[23] is a country in South AsiaIt is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world<br><br>
+Insanity Learner goal is to:"Provide Good quality of Education"<br><br>
+The WHO was found in 1948<br><br>
+I have a PD installing OS<br><br>
+My friend name is S.D .He is in U.S<br>
+Written By:<u><h3 style="color:blue;">Insanity Learner</u></h3><br>
+Visit us at:<u><h3 style="color:blue;">www.insanitylearner.com</u></h3><br>
+xyz,<br>
+India<br><br>
+Web development Course By Insanity Learner<br><br>
+gat ODB si siht iH
+
+</address>
+
+</blockquote>
